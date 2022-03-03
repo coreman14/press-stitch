@@ -1,0 +1,145 @@
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Day-0.rpy:1008 'show maind 7 smile' ERROR: Image 'main 7 smile' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Day-0.rpy:2787 'scene bg mansionelizanightlit' ERROR: Error: Image 'bg mansionelizanightlit' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Mother_Path.rpy:7975 'show seand 5 aroused:' ERROR: Image 'sean 5 aroused' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Mother_Path.rpy:8113 'show seand 5 aroused2:' ERROR: Image 'sean 5 aroused2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Mother_Path.rpy:8119 'show seand 5 aroused2:' ERROR: Image 'sean 5 aroused2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Mother_Path.rpy:8538 'show seand 5 aroused2:' ERROR: Image 'sean 5 aroused2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Mother_Path.rpy:8551 'show seand 5 aroused2:' ERROR: Image 'sean 5 aroused2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Mother_Path.rpy:11034 'show maind 2 smile2' ERROR: Image 'mother 2 smile2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1194 'show cg betmel 3' ERROR: Error: Image 'cg betmel 3' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1201 'show cg betmel 2' ERROR: Error: Image 'cg betmel 2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1204 'show cg betmel 4' ERROR: Error: Image 'cg betmel 4' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1213 'show cg betmel 5 with dissolve' ERROR: Error: Image 'cg betmel 5' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1218 'show cg betmel 6' ERROR: Error: Image 'cg betmel 6' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1221 'show cg betmel 7' ERROR: Error: Image 'cg betmel 7' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1224 'show cg betmel 12' ERROR: Error: Image 'cg betmel 12' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1227 'show cg betmel 8 with dissolve' ERROR: Error: Image 'cg betmel 8' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1232 'show cg betmel 9' ERROR: Error: Image 'cg betmel 9' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1235 'show cg betmel 10' ERROR: Error: Image 'cg betmel 10' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1240 'show cg betmel 11' ERROR: Error: Image 'cg betmel 11' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1247 'show cg betmel 13 with dissolve' ERROR: Error: Image 'cg betmel 13' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1250 'show cg betmel 12 with dissolve' ERROR: Error: Image 'cg betmel 12' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1253 'show cg betmel 10 with dissolve' ERROR: Error: Image 'cg betmel 10' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1256 'show cg betmel 14 with dissolve' ERROR: Error: Image 'cg betmel 14' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1263 'show cg betmel 11 with dissolve' ERROR: Error: Image 'cg betmel 11' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1268 'show cg betmel 12 with dissolve' ERROR: Error: Image 'cg betmel 12' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1293 'show cg betmel 8 with dissolve' ERROR: Error: Image 'cg betmel 8' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1298 'show cg betmel 9' ERROR: Error: Image 'cg betmel 9' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1303 'show cg betmel 10' ERROR: Error: Image 'cg betmel 10' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1306 'show cg betmel 14 with dissolve' ERROR: Error: Image 'cg betmel 14' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1309 'show cg betmel 15 with fade' ERROR: Error: Image 'cg betmel 15' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1318 'show melina skirt 7 open at right:' ERROR: Image 'melina skirt 7 open' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1329 'show melina skirt 8 open' ERROR: Image 'melina skirt 8 open' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1337 'show melina skirt 9 closed2' ERROR: Image 'melina skirt 9 closed2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1342 'show melina skirt bra 9' ERROR: Image 'melina skirt bra 9' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1616 'show cg melina 1' ERROR: Error: Image 'cg melina 1' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1619 'show cg melina 2' ERROR: Error: Image 'cg melina 2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1622 'show cg melina 1' ERROR: Error: Image 'cg melina 1' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1625 'show cg melina 2' ERROR: Error: Image 'cg melina 2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1628 'show cg melina 3 with dissolve' ERROR: Error: Image 'cg melina 3' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1633 'show cg melina 5 with dissolve' ERROR: Error: Image 'cg melina 5' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1636 'show cg melina 4 with dissolve' ERROR: Error: Image 'cg melina 4' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1639 'show cg melina 6' ERROR: Error: Image 'cg melina 6' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1644 'show cg melina 4' ERROR: Error: Image 'cg melina 4' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1647 'show cg melina 7 with dissolve' ERROR: Error: Image 'cg melina 7' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1650 'show cg melina 8' ERROR: Error: Image 'cg melina 8' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1653 'show cg melina 9' ERROR: Error: Image 'cg melina 9' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1658 'show cg melina 10' ERROR: Error: Image 'cg melina 10' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1661 'show cg melina 11' ERROR: Error: Image 'cg melina 11' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1666 'show cg melina 9 with dissolve' ERROR: Error: Image 'cg melina 9' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1668 'show cg melina 11 with dissolve' ERROR: Error: Image 'cg melina 11' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1671 'show cg melina 12 with dissolve' ERROR: Error: Image 'cg melina 12' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1674 'show cg melina 14' ERROR: Error: Image 'cg melina 14' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1677 'show cg melina 13' ERROR: Error: Image 'cg melina 13' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1682 'show cg melina 17 with dissolve' ERROR: Error: Image 'cg melina 17' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1687 'show cg melina 18 with dissolve' ERROR: Error: Image 'cg melina 18' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1692 'show cg melina 21 with dissolve' ERROR: Error: Image 'cg melina 21' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1695 'show cg melina 22 with dissolve' ERROR: Error: Image 'cg melina 22' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1698 'show cg melina 23 with dissolve' ERROR: Error: Image 'cg melina 23' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1701 'show cg melina 24 with dissolve' ERROR: Error: Image 'cg melina 24' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1704 'show cg melina 25 with dissolve' ERROR: Error: Image 'cg melina 25' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:1707 'show cg melina 26 with dissolve' ERROR: Error: Image 'cg melina 26' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2110 'show cg melina 29 with dissolve' ERROR: Error: Image 'cg melina 29' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2113 'show cg melina 33 with dissolve' ERROR: Error: Image 'cg melina 33' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2116 'show cg melina 31 with dissolve' ERROR: Error: Image 'cg melina 31' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2119 'show cg melina 32 with dissolve' ERROR: Error: Image 'cg melina 32' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2122 'show cg melina 35' ERROR: Error: Image 'cg melina 35' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2125 'show cg melina 31' ERROR: Error: Image 'cg melina 31' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2139 'show cg melina 33 with dissolve' ERROR: Error: Image 'cg melina 33' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2209 'show cg betmel kiss with dissolve:' ERROR: Error: Image 'cg betmel kiss' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2286 'show cg betmel 17 with dissolve' ERROR: Error: Image 'cg betmel 17' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2291 'show cg betmel 18 with dissolve' ERROR: Error: Image 'cg betmel 18' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2296 'show cg betmel 19 with dissolve' ERROR: Error: Image 'cg betmel 19' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2301 'show cg betmel 20 with dissolve' ERROR: Error: Image 'cg betmel 20' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2306 'show cg betmel 18 with dissolve' ERROR: Error: Image 'cg betmel 18' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2311 'show cg betmel 21 with dissolve' ERROR: Error: Image 'cg betmel 21' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2314 'show cg betmel 22 with dissolve' ERROR: Error: Image 'cg betmel 22' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2321 'show cg betmel 23 with dissolve' ERROR: Error: Image 'cg betmel 23' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2324 'show cg betmel 21 with dissolve' ERROR: Error: Image 'cg betmel 21' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2329 'show cg betmel 24 with dissolve' ERROR: Error: Image 'cg betmel 24' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2334 'show cg betmel 25 with dissolve' ERROR: Error: Image 'cg betmel 25' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2337 'show cg betmel 26 with dissolve' ERROR: Error: Image 'cg betmel 26' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2344 'show cg betmel 27 with dissolve' ERROR: Error: Image 'cg betmel 27' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2353 'show cg betmel 18 with dissolve' ERROR: Error: Image 'cg betmel 18' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2358 'show cg betmel 19 with dissolve' ERROR: Error: Image 'cg betmel 19' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2914 'show cg cinren 2 with dissolve' ERROR: Error: Image 'cg cinren 2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2923 'show cg cinren 3 with dissolve' ERROR: Error: Image 'cg cinren 3' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2928 'show cg cinren 4 with dissolve' ERROR: Error: Image 'cg cinren 4' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2931 'show cg cinren 5 with dissolve' ERROR: Error: Image 'cg cinren 5' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2934 'show cg cinren 6 with dissolve' ERROR: Error: Image 'cg cinren 6' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2941 'show cg cinren 7 with dissolve' ERROR: Error: Image 'cg cinren 7' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2944 'show cg cinren 8 with dissolve' ERROR: Error: Image 'cg cinren 8' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2947 'show cg cinren 9 with dissolve' ERROR: Error: Image 'cg cinren 9' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2952 'show cg cinren 10 with dissolve' ERROR: Error: Image 'cg cinren 10' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2957 'show cg cinren 11 with dissolve' ERROR: Error: Image 'cg cinren 11' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2962 'show cg cinren 12 with dissolve' ERROR: Error: Image 'cg cinren 12' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2967 'show cg cinren 13 with dissolve' ERROR: Error: Image 'cg cinren 13' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2970 'show cg cinren 14 with dissolve' ERROR: Error: Image 'cg cinren 14' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2973 'show cg cinren 15 with dissolve' ERROR: Error: Image 'cg cinren 15' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2976 'show cg cinren 16 with dissolve' ERROR: Error: Image 'cg cinren 16' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2981 'show cg cinren 15 with dissolve' ERROR: Error: Image 'cg cinren 15' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2986 'show cg cinren 17 with dissolve' ERROR: Error: Image 'cg cinren 17' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:2993 'show cg cinren 18 with dissolve' ERROR: Error: Image 'cg cinren 18' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3000 'show cg cinren 19 with dissolve' ERROR: Error: Image 'cg cinren 19' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3003 'show cg cinren 20 with dissolve' ERROR: Error: Image 'cg cinren 20' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3008 'show cg cinren 21 with dissolve' ERROR: Error: Image 'cg cinren 21' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3011 'show cg cinren 22 with dissolve' ERROR: Error: Image 'cg cinren 22' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3016 'show cg cinren 20 with dissolve' ERROR: Error: Image 'cg cinren 20' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3021 'show cg cinren 22 with dissolve' ERROR: Error: Image 'cg cinren 22' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3026 'show cg cinren 23 with dissolve' ERROR: Error: Image 'cg cinren 23' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3044 'show cg cinren 25 with dissolve' ERROR: Error: Image 'cg cinren 25' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3049 'show cg cinren 26 with dissolve' ERROR: Error: Image 'cg cinren 26' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3052 'show cg cinren 27 with dissolve' ERROR: Error: Image 'cg cinren 27' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3055 'show cg cinren 28 with dissolve' ERROR: Error: Image 'cg cinren 28' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3060 'show cg cinren 29 with dissolve' ERROR: Error: Image 'cg cinren 29' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3063 'show cg cinren 30 with dissolve' ERROR: Error: Image 'cg cinren 30' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3066 'show cg cinren 31 with dissolve' ERROR: Error: Image 'cg cinren 31' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3069 'show cg cinren 32 with dissolve' ERROR: Error: Image 'cg cinren 32' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3086 'show cg cinren 33' ERROR: Error: Image 'cg cinren 33' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3098 'show cg cinren 34 with dissolve' ERROR: Error: Image 'cg cinren 34' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3103 'show cg cinren 35 with dissolve' ERROR: Error: Image 'cg cinren 35' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3106 'show cg cinren 36 with dissolve' ERROR: Error: Image 'cg cinren 36' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3111 'show cg cinren 37 with dissolve' ERROR: Error: Image 'cg cinren 37' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3116 'show cg cinren 38 with dissolve' ERROR: Error: Image 'cg cinren 38' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3119 'show cg cinren 39 with dissolve' ERROR: Error: Image 'cg cinren 39' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3122 'show cg cinren 40 with dissolve' ERROR: Error: Image 'cg cinren 40' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3125 'show cg cinren 41 with dissolve' ERROR: Error: Image 'cg cinren 41' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3128 'show cg cinren 42 with dissolve' ERROR: Error: Image 'cg cinren 42' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3131 'show cg cinren 43 with dissolve' ERROR: Error: Image 'cg cinren 43' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3136 'show cg cinren 44 with dissolve' ERROR: Error: Image 'cg cinren 44' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3141 'show cg cinren 45 with dissolve' ERROR: Error: Image 'cg cinren 45' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3144 'show cg cinren 46 with dissolve' ERROR: Error: Image 'cg cinren 46' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3149 'show cg cinren 47 with dissolve' ERROR: Error: Image 'cg cinren 47' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3154 'show cg cinren 48 with dissolve' ERROR: Error: Image 'cg cinren 48' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3159 'show cg cinren 49 with dissolve' ERROR: Error: Image 'cg cinren 49' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3162 'show cg cinren 51 with dissolve' ERROR: Error: Image 'cg cinren 51' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3165 'show cg cinren 52 with dissolve' ERROR: Error: Image 'cg cinren 52' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3170 'show cg cinren 53 with dissolve' ERROR: Error: Image 'cg cinren 53' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3173 'show cg cinren 54 with dissolve' ERROR: Error: Image 'cg cinren 54' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3180 'show cg cinren 55 with dissolve' ERROR: Error: Image 'cg cinren 55' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3183 'show cg cinren 56 with dissolve' ERROR: Error: Image 'cg cinren 56' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3393 'show cg iida 4 at truecenter' ERROR: Error: Image 'cg iida 4' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3592 'show cg iida 2 with dissolve' ERROR: Error: Image 'cg iida 2' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3597 'show cg iida 3 with dissolve' ERROR: Error: Image 'cg iida 3' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\Nickpath.rpy:3602 'show cg iida 1 with dissolve' ERROR: Error: Image 'cg iida 1' is not valid
+C:\Users\rcgam\Downloads\Programs\Press-SwitchV0.5c-cobalt\game\Story\AprilTheWitch.rpy:1380 'show mikad 4 open 5:' ERROR: Image 'ashley 4 open 5' is not valid
